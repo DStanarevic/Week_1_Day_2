@@ -40,7 +40,31 @@ namespace Week_1_Day_2
             */
 
 
+            //Now, let's talk about operators!
 
-        }
+            //Arithmetic Operator
+            // + adds two operands(Value in variable that is being worked with). 
+            // - this operator subtracts the second operator first.
+            // * Multiplies both operands. 
+            // / Divides the first operand by the second one. 
+            // % Modulus opperator shows the remainder of what is left over when you divide.
+            // ++ Increments value by one and is used for ints primarily.
+            // -- Decreases value by one each time that it's used.
+
+            //Relational operator
+            // == Checks if the two operands are equal, if it they are it returns a true and if not a false.
+            // != Checks if two operands are not equal to each other and if they are not equal it returns a true.
+            // > Checks the value of the left operand and if it's greater than the right operand. If yes it returns a true.
+            // < Checks the value of the left operand and if it is less than the value of the right operand. If it is true, it returns a true.
+            // >= Checks if value is greater or equal to and if it is it returns a true. It checks the left value first and then the right.
+            // <= Checks if the value of the left operand is less than or equal to the right operand. If this condition is true, it returns a true.
+
+
+
+
+
+            int Jarryd = 29;
+            int Daniel = 32;
+            Console.WriteLine(Jarryd == Daniel);        }
     }
 }
